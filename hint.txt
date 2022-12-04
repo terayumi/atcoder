@@ -1,0 +1,3 @@
+acc new [contestname]
+cd C:\Users\Yumi\workspace\atcorder
+oj t -c "python main.py"
